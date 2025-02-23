@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qa20ookuwIAyzgvkTxuElTEv1mzLeap0q+yZrrIP2Rw=",
+  "Source": "JsonHelloWorldApi",
+  "BasePath": "_content/JsonHelloWorldApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
